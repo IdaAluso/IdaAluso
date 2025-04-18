@@ -1,7 +1,17 @@
 - 👋 Hi, I’m @IdaAluso
-- 👀 I’m interested in data analytics, web development and game dev
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on game dev projects
+**Interests**
+- Data analytics
+- Web development
+- Game dev
+  
+**Skills**
+- Python
+- C++
+- Java
+- JavaScript
+- HTML
+- CSS
+
 
 <!---
 IdaAluso/IdaAluso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
